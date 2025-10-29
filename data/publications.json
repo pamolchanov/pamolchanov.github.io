@@ -1,0 +1,1593 @@
+[
+  {
+    "id": "vila-m3-enhancing-vision-language-models-with-medical-expert-knowledge",
+    "title": "Vila-m3: Enhancing vision-language models with medical expert knowledge",
+    "authors": "Vishwesh Nath and Wenqi Li and Dong Yang and Andriy Myronenko and Mingxin Zheng and Yao Lu and Zhijian Liu and Hongxu Yin and Yee Man Law and Yucheng Tang and Pengfei Guo and Can Zhao and Ziyue Xu and Yufan He and Stephanie Harmon and Benjamin Simon and Greg Heinrich and Stephen Aylward and Marc Edgar and Michael Zephyr and Pavlo Molchanov and Baris Turkbey and Holger Roth and Daguang Xu",
+    "venue": "CVPR",
+    "year": 2025,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2025/html/Nath_VILA-M3_Enhancing_Vision-Language_Models_with_Medical_Expert_Knowledge_CVPR_2025_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "twinturbo-semi-supervised-fine-tuning-of-foundation-models-via-mutual-information-decompositions-for-downstream-task-and-latent-spaces",
+    "title": "TwinTURBO: Semi-Supervised Fine-Tuning of Foundation Models via Mutual Information Decompositions for Downstream Task and Latent Spaces",
+    "authors": "Guillaume Qu\u00e9tant and Pavlo Molchanov and Slava Voloshynovskiy",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2503.07851"
+    },
+    "tags": []
+  },
+  {
+    "id": "small-language-models-are-the-future-of-agentic-ai",
+    "title": "Small Language Models are the Future of Agentic AI",
+    "authors": "Peter Belcak and Greg Heinrich and Shizhe Diao and Yonggan Fu and Xin Dong and Saurav Muralidharan and Yingyan Celine Lin and Pavlo Molchanov",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://research.nvidia.com/labs/lpr/slm-agents/"
+    },
+    "tags": []
+  },
+  {
+    "id": "scaling-rl-to-long-videos",
+    "title": "Scaling rl to long videos",
+    "authors": "Yukang Chen and Wei Huang and Baifeng Shi and Qinghao Hu and Hanrong Ye and Ligeng Zhu and Zhijian Liu and Pavlo Molchanov and Jan Kautz and Xiaojuan Qi and Sifei Liu and Hongxu Yin and Yao Lu and Song Han",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2507.07966"
+    },
+    "tags": []
+  },
+  {
+    "id": "scaling-vision-pre-training-to-4k-resolution",
+    "title": "Scaling Vision Pre-Training to 4K Resolution",
+    "authors": "Baifeng Shi and Boyi Li and Han Cai and Yao Lu and Sifei Liu and Marco Pavone and Jan Kautz and Song Han and Trevor Darrell and Pavlo Molchanov and Hongxu Yin",
+    "venue": "CVPR",
+    "year": 2025,
+    "links": {
+      "project": "https://nvlabs.github.io/PS3/",
+      "paper": "https://arxiv.org/abs/2503.19903",
+      "code": "https://github.com/NVLabs/PS3/"
+    },
+    "tags": []
+  },
+  {
+    "id": "scaling-up-rl-unlocking-diverse-reasoning-in-llms-via-prolonged-training",
+    "title": "Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training",
+    "authors": "Mingjie Liu and Shizhe Diao and Jian Hu and Ximing Lu and Xin Dong and Hao Zhang and Alexander Bukharin and Shaokun Zhang and Jiaqi Zeng and Makesh Narsimhan Sreedhar and Gerald Shen and David Mosallanezhad and Di Zhang and Jonas Yang and June Yang and Oleksii Kuchaiev and Guilin Liu and Zhiding Yu and Pavlo Molchanov and Yejin Choi and Jan Kautz and Yi Dong",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2507.12507"
+    },
+    "tags": []
+  },
+  {
+    "id": "radiov2-5-improved-baselines-for-agglomerative-vision-foundation-models",
+    "title": "Radiov2.5: Improved baselines for agglomerative vision foundation models",
+    "authors": "Greg Heinrich and Mike Ranzinger and Hongxu Yin and Yao Lu and Jan Kautz and Andrew Tao and Bryan Catanzaro and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": 2025,
+    "links": {
+      "paper": "https://arxiv.org/abs/2412.07679",
+      "code": "https://github.com/NVlabs/RADIO",
+      "models": "https://huggingface.co/collections/nvidia/radio"
+    },
+    "tags": []
+  },
+  {
+    "id": "nvila-efficient-frontier-visual-language-models",
+    "title": "NVILA: Efficient frontier visual language models",
+    "authors": "Zhijian Liu and Ligeng Zhu and Baifeng Shi and Zhuoyang Zhang and Yuming Lou and Shang Yang and Haocheng Xi and Shiyi Cao and Yuxian Gu and Dacheng Li and Xiuyu Li and Haotian Tang and Yunhao Fang and Yukang Chen and Cheng-Yu Hsieh and De-An Huang and An-Chieh Cheng and Jinyi Hu and Sifei Liu and Ranjay Krishna and Pavlo Molchanov and Jan Kautz and Hongxu Yin and Song Han and Yao Lu",
+    "venue": "CVPR",
+    "year": 2025,
+    "links": {
+      "paper": "https://arxiv.org/abs/2412.04468",
+      "project": "https://nvlabs.github.io/VILA/",
+      "code": "https://github.com/NVlabs/VILA"
+    },
+    "tags": []
+  },
+  {
+    "id": "nemotron-h-a-family-of-accurate-and-efficient-hybrid-mamba-transformer-models",
+    "title": "NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model",
+    "authors": "NVIDIA: Aarti Basant and Abhijit Khairnar and Abhijit Paithankar and Abhinav Khattar and Adithya Renduchintala and Aditya Malte and Akhiad Bercovich and Akshay Hazare and Alejandra Rico and Aleksander Ficek and Alex Kondratenko and Alex Shaposhnikov and Alexander Bukharin and Ali Taghibakhshi and Amelia Barton and Ameya Sunil Mahabaleshwarkar and Amy Shen and Andrew Tao and Ann Guan and Anna Shors and Anubhav Mandarwal and Arham Mehta and Arun Venkatesan and Ashton Sharabiani and Ashwath Aithal and Ashwin Poojary and Ayush Dattagupta and Balaram Buddharaju and Banghua Zhu and Barnaby Simkin and Bilal Kartal and Bita Darvish Rouhani and Bobby Chen and Boris Ginsburg and Brandon Norick and Brian Yu and Bryan Catanzaro and Charles Wang and Charlie Truong and Chetan Mungekar and Chintan Patel and Chris Alexiuk and Christian Munley and Christopher Parisien and Dan Su and Daniel Afrimi and Daniel Korzekwa and Daniel Rohrer and Daria Gitman and David Mosallanezhad and Deepak Narayanan and Dima Rekesh and Dina Yared and Dmytro Pykhtar and Dong Ahn and Duncan Riach and Eileen Long and Elliott Ning and Eric Chung and Erick Galinkin and Evelina Bakhturina and Gargi Prasad and Gerald Shen and Haifeng Qian and Haim Elisha and Harsh Sharma and Hayley Ross and Helen Ngo and Herman Sahota and Hexin Wang and Hoo Chang Shin and Hua Huang and Iain Cunningham and Igor Gitman and Ivan Moshkov and Jaehun Jung and Jan Kautz and Jane Polak Scowcroft and Jared Casper and Jian Zhang and Jiaqi Zeng and Jimmy Zhang and Jinze Xue and Jocelyn Huang and Joey Conway and John Kamalu and Jonathan Cohen and Joseph Jennings and Julien Veron Vialard and Junkeun Yi and Jupinder Parmar and Kari Briski and Katherine Cheung and Katherine Luna and Keith Wyss and Keshav Santhanam and Kezhi Kong and Krzysztof Pawelec and Kumar Anik and Kunlun Li and Kushan Ahmadian and Lawrence McAfee and Laya Sleiman and Leon Derczynski and Luis Vega and Maer Rodrigues de Melo and Makesh Narsimhan Sreedhar and Marcin Chochowski and Mark Cai and Markus Kliegl and Marta Stepniewska-Dziubinska and Matvei Novikov and Mehrzad Samadi and Meredith Price and Meriem Boubdir and Michael Boone and Michael Evans and Michal Bien and Michal Zawalski and Miguel Martinez and Mike Chrzanowski and Mohammad Shoeybi and Mostofa Patwary and Namit Dhameja and Nave Assaf and Negar Habibi and Nidhi Bhatia and Nikki Pope and Nima Tajbakhsh and Nirmal Kumar Juluru and Oleg Rybakov and Oleksii Hrinchuk and Oleksii Kuchaiev and Oluwatobi Olabiyi and Pablo Ribalta and Padmavathy Subramanian and Parth Chadha and Pavlo Molchanov and Peter Dykas and Peter Jin and Piotr Bialecki and Piotr Januszewski and Pradeep Thalasta and Prashant Gaikwad and Prasoon Varshney and Pritam Gundecha and Przemek Tredak and Rabeeh Karimi Mahabadi and Rajen Patel and Ran El-Yaniv and Ranjit Rajan and Ria Cheruvu and Rima Shahbazyan and Ritika Borkar and Ritu Gala and Roger Waleffe and Ruoxi Zhang and Russell J. Hewett and Ryan Prenger and Sahil Jain and Samuel Kriman and Sanjeev Satheesh and Saori Kaji and Sarah Yurick and Saurav Muralidharan and Sean Narenthiran and Seonmyeong Bak and Sepehr Sameni and Seungju Han and Shanmugam Ramasamy and Shaona Ghosh and Sharath Turuvekere Sreenivas and Shelby Thomas and Shizhe Diao and Shreya Gopal and Shrimai Prabhumoye and Shubham Toshniwal and Shuoyang Ding and Siddharth Singh and Siddhartha Jain and Somshubra Majumdar and Soumye Singhal and Stefania Alborghetti and Syeda Nahida Akter and Terry Kong and Tim Moon and Tomasz Hliwiak and Tomer Asida and Tony Wang and Tugrul Konuk and Twinkle Vashishth and Tyler Poon and Udi Karpas and Vahid Noroozi and Venkat Srinivasan and Vijay Korthikanti and Vikram Fugro and Vineeth Kalluru and Vitaly Kurin and Vitaly Lavrukhin and Wasi Uddin Ahmad and Wei Du and Wonmin Byeon and Ximing Lu and Xin Dong and Yashaswi Karnati and Yejin Choi and Yian Zhang and Ying Lin and Yonggan Fu and Yoshi Suhara and Zhen Dong and Zhiyu Li and Zhongbo Zhu and Zijia Chen",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://research.nvidia.com/labs/adlr/NVIDIA-Nemotron-Nano-2/"
+    },
+    "tags": []
+  },
+  {
+    "id": "minifinetuning-low-data-generation-domain-adaptation-through-corrective-self-distillation",
+    "title": "Minifinetuning: Low-Data Generation Domain Adaptation through Corrective Self-Distillation",
+    "authors": "Peter Belcak and Greg Heinrich and Jan Kautz and Pavlo Molchanov",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2506.15702"
+    },
+    "tags": []
+  },
+  {
+    "id": "longmamba-enhancing-mamba-s-long-context-capabilities-via-training-free-receptive-field-enlargement",
+    "title": "LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement",
+    "authors": "Zhifan Ye and Kejing Xia and Yonggan Fu and Xin Dong and Jihoon Hong and Xiangchi Yuan and Shizhe Diao and Jan Kautz and Pavlo Molchanov and Yingyan Celine Lin",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2504.16053"
+    },
+    "tags": []
+  },
+  {
+    "id": "lacache-ladder-shaped-kv-caching-for-efficient-long-context-modeling-of-large-language-models",
+    "title": "LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models",
+    "authors": "Dachuan Shi and Yonggan Fu and Xiangchi Yuan and Zhongzhi Yu and Haoran You and Sixu Li and Xin Dong and Jan Kautz and Pavlo Molchanov",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2507.14204"
+    },
+    "tags": []
+  },
+  {
+    "id": "flexgs-train-once-deploy-everywhere-with-many-in-one-flexible-3d-gaussian-splatting",
+    "title": "FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting",
+    "authors": "Hengyu Liu and Yuehao Wang and Chenxin Li and Ruisi Cai and Kevin Wang and Wuyang Li and Pavlo Molchanov and Peihao Wang and Zhangyang Wang",
+    "venue": "CVPR",
+    "year": 2025,
+    "links": {
+      "project": "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_FlexGS_Train_Once_Deploy_Everywhere_with_Many-in-One_Flexible_3D_Gaussian_CVPR_2025_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "featsharp-your-vision-model-features-sharper",
+    "title": "FeatSharp: Your Vision Model Features, Sharper",
+    "authors": "Mike Ranzinger and Greg Heinrich and Pavlo Molchanov and Jan Kautz and Bryan Catanzaro and Andrew Tao",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "project": "https://arxiv.org/abs/2502.16025"
+    },
+    "tags": []
+  },
+  {
+    "id": "efficient-hybrid-language-model-compression-through-group-aware-ssm-pruning",
+    "title": "Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning",
+    "authors": "Ali Taghibakhshi and Sharath Turuvekere Sreenivas and Saurav Muralidharan and Marcin Chochowski and Yashaswi Karnati and Raviraj Joshi and Ameya Sunil Mahabaleshwarkar and Zijia Chen and Yoshi Suhara and Oluwatobi Olabiyi and Daniel Korzekwa and Mostofa Patwary and Mohammad Shoeybi and Jan Kautz and Bryan Catanzaro and Ashwath Aithal and Nima Tajbakhsh and Pavlo Molchanov",
+    "venue": "NeurIPS 2025",
+    "year": 2025,
+    "links": {},
+    "tags": []
+  },
+  {
+    "id": "climb-clustering-based-iterative-data-mixture-bootstrapping-for-language-model-pre-training",
+    "title": "Climb: Clustering-based iterative data mixture bootstrapping for language model pre-training",
+    "authors": "Shizhe Diao and Yu Yang and Yonggan Fu and Xin Dong and Dan Su and Markus Kliegl and Zijia Chen and Peter Belcak and Yoshi Suhara and Hongxu Yin and Mostofa Patwary and Jan Kautz and Pavlo Molchanov",
+    "venue": "NeurIPS 2025",
+    "year": 2025,
+    "links": {
+      "project": "https://research.nvidia.com/labs/lpr/climb/"
+    },
+    "tags": []
+  },
+  {
+    "id": "advancing-weight-and-channel-sparsification-with-enhanced-saliency",
+    "title": "Advancing weight and channel sparsification with enhanced saliency",
+    "authors": "Xinglong Sun and Maying Shen and Hongxu Yin and Lei Mao and Pavlo Molchanov and Jose M Alvarez",
+    "venue": "IEEE Conference",
+    "year": 2025,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/10944036/"
+    },
+    "tags": []
+  },
+  {
+    "id": "x-vila-cross-modality-alignment-for-large-language-model",
+    "title": "X-vila: Cross-modality alignment for large language model",
+    "authors": "Hanrong Ye and De-An Huang and Yao Lu and Zhiding Yu and Wei Ping and Andrew Tao and Jan Kautz and Song Han and Dan Xu and Pavlo Molchanov and Hongxu Yin",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2405.05008",
+      "project": "https://arxiv.org/abs/2405.19335"
+    },
+    "tags": [
+      "Alignment",
+      "VLM"
+    ]
+  },
+  {
+    "id": "omnivinci-enhancing-architecture-and-data-for-omni-modal-understanding-llm",
+    "title": "OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM",
+    "authors": "Hanrong Ye and C.-H. Huck Yang and Arushi Goel and Wei Huang and Ligeng Zhu and Yuanhang Su and Sean Lin and An-Chieh Cheng and Zhen Wan and Jinchuan Tian and Yuming Lou and Dong Yang and Zhijian Liu and Yukang Chen and Ambrish Dantrey and Ehsan Jahangiri and Sreyan Ghosh and Daguang Xu and Ehsan Hosseini Asl and Danial Mohseni Taheri and Vidya Murali and Sifei Liu and Jason Lu and Oluwatobi Olabiyi and Y.-C. Frank Wang and Rafael Valle and Bryan Catanzaro and Andrew Tao and Song Han and Jan Kautz and Hongxu Yin and Pavlo Molchanov",
+    "venue": "arXiv",
+    "year": 2025,
+    "links": {
+      "paper": "https://arxiv.org/abs/2510.15870",
+      "project": "https://nvlabs.github.io/OmniVinci/",
+      "code": "https://github.com/NVlabs/OmniVinci",
+      "models": "https://huggingface.co/nvidia/omnivinci"
+    },
+    "tags": []
+  },
+  {
+    "id": "vila-on-pre-training-for-visual-language-models",
+    "title": "Vila: On pre-training for visual language models",
+    "authors": "Ji Lin and Hongxu Yin and Wei Ping and Pavlo Molchanov and Mohammad Shoeybi and Song Han",
+    "venue": "CVPR",
+    "year": 2024,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2312.07533",
+      "project": "http://openaccess.thecvf.com/content/CVPR2024/html/Lin_VILA_On_Pre-training_for_Visual_Language_Models_CVPR_2024_paper.html"
+    },
+    "tags": [
+      "Pre-training",
+      "VLM"
+    ]
+  },
+  {
+    "id": "vila-vila-augmented-vila",
+    "title": "VILA: VILA Augmented VILA",
+    "authors": "Yunhao Fang and Ligeng Zhu and Yao Lu and Yan Wang and Pavlo Molchanov and Jan Kautz and Jang Hyun Cho and Marco Pavone and Song Han and Hongxu Yin",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2407.17453"
+    },
+    "tags": []
+  },
+  {
+    "id": "step-out-and-seek-around-on-warm-start-training-with-incremental-data",
+    "title": "Step out and seek around: On warm-start training with incremental data",
+    "authors": "Maying Shen and Hongxu Yin and Pavlo Molchanov and Lei Mao and Jose M Alvarez",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2406.04484"
+    },
+    "tags": []
+  },
+  {
+    "id": "radio-amplified-improved-baselines-for-agglomerative-vision-foundation-models",
+    "title": "Radio amplified: Improved baselines for agglomerative vision foundation models",
+    "authors": "Greg Heinrich and Mike Ranzinger and Yao Lu and Jan Kautz and Andrew Tao and Bryan Catanzaro and Pavlo Molchanov",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2024,
+    "links": {
+      "project": "https://ui.adsabs.harvard.edu/abs/2024arXiv241207679H/abstract"
+    },
+    "tags": []
+  },
+  {
+    "id": "puzzle-distillation-based-nas-for-inference-optimized-llms",
+    "title": "Puzzle: Distillation-Based NAS for Inference-Optimized LLMs",
+    "authors": "Akhiad Bercovich and Tomer Ronen and Talor Abramovich and Nir Ailon and Nave Assaf and Mohammad Dabbah and Ido Galil and Amnon Geifman and Yonatan Geifman and Izhak Golan and Netanel Haber and Ehud Karpas and Roi Koren and Itay Levy and Pavlo Molchanov and Shahar Mor and Zach Moshe and Najeeb Nabwani and Omri Puny and Ran Rubin and Itamar Schen and Ido Shahaf and Oren Tropp and Omer Ullman Argov and Ran Zilberstein and Ran El-Yaniv",
+    "venue": "ICML",
+    "year": 2025,
+    "links": {
+      "project": "https://developer.nvidia.com/blog/build-enterprise-ai-agents-with-advanced-open-nvidia-llama-nemotron-reasoning-models?_hsenc=p2ANqtz-8k1Tue7PA7fi40rouEOeEqJfjmtA5oeTQy9FNJMp1f2Z35DzyaX7agqebUidkJGPIvYuctuVZcTGUtJ8i5LY1zKdq2bQ&_hsmi=353290259&utm_source=pocket_shared"
+    },
+    "tags": []
+  },
+  {
+    "id": "phi-s-distribution-balancing-for-label-free-multi-teacher-distillation",
+    "title": "PHI-S: Distribution balancing for label-free multi-teacher distillation",
+    "authors": "Mike Ranzinger and Jon Barker and Greg Heinrich and Pavlo Molchanov and Bryan Catanzaro and Andrew Tao",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2410.01680"
+    },
+    "tags": []
+  },
+  {
+    "id": "pace-human-and-camera-motion-estimation-from-in-the-wild-videos",
+    "title": "PACE: Human and Camera Motion Estimation from in-the-wild Videos",
+    "authors": "Muhammed Kocabas and Ye Yuan and Pavlo Molchanov and Yunrong Guo and Michael J Black and Otmar Hilliges and Jan Kautz and Umar Iqbal",
+    "venue": "IEEE Conference",
+    "year": 2024,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/10550463/"
+    },
+    "tags": []
+  },
+  {
+    "id": "maskllm-learnable-semi-structured-sparsity-for-large-language-models",
+    "title": "MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models",
+    "authors": "Gongfan Fang and Hongxu Yin and Saurav Muralidharan and Greg Heinrich and Jeff Pool and Jan Kautz and Pavlo Molchanov and Xinchao Wang",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "links": {
+      "project": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0e9a05f5ce62284c91e4a33498899124-Abstract-Conference.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "longvila-scaling-long-context-visual-language-models-for-long-videos",
+    "title": "Longvila: Scaling long-context visual language models for long videos",
+    "authors": "Fuzhao Xue and Yukang Chen and Dacheng Li and Qinghao Hu and Ligeng Zhu and Xiuyu Li and Yunhao Fang and Haotian Tang and Shang Yang and Zhijian Liu and Ethan He and Hongxu Yin and Pavlo Molchanov and Jan Kautz and Linxi Fan and Yuke Zhu and Yao Lu and Song Han",
+    "venue": "ICLR",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2408.10188"
+    },
+    "tags": []
+  },
+  {
+    "id": "lita-language-instructed-temporal-localization-assistant",
+    "title": "Lita: Language instructed temporal-localization assistant",
+    "authors": "De-An Huang and Shijia Liao and Subhashree Radhakrishnan and Hongxu Yin and Pavlo Molchanov and Zhiding Yu and Jan Kautz",
+    "venue": "ECCV",
+    "year": 2024,
+    "links": {
+      "project": "https://link.springer.com/chapter/10.1007/978-3-031-73039-9_12"
+    },
+    "tags": []
+  },
+  {
+    "id": "llm-pruning-and-distillation-in-practice-the-minitron-approach",
+    "title": "LLM Pruning and Distillation in Practice: The Minitron Approach",
+    "authors": "Sharath Turuvekere Sreenivas and Saurav Muralidharan and Raviraj Joshi and Marcin Chochowski and Mostofa Patwary and Mohammad Shoeybi and Bryan Catanzaro and Jan Kautz and Pavlo Molchanov",
+    "venue": "arXiv e-prints",
+    "year": 2024,
+    "links": {
+      "project": "https://developer.nvidia.com/blog/llm-model-pruning-and-knowledge-distillation-with-nvidia-nemo-framework/",
+      "code": "https://github.com/NVlabs/Minitron"
+    },
+    "tags": []
+  },
+  {
+    "id": "hymba-a-hybrid-head-architecture-for-small-language-models",
+    "title": "Hymba: A hybrid-head architecture for small language models",
+    "authors": "Xin Dong and Yonggan Fu and Shizhe Diao and Wonmin Byeon and Zijia Chen and Ameya Sunil Mahabaleshwarkar and Shih-Yang Liu and Matthijs Van Keirsbilck and Min-Hung Chen and Yoshi Suhara and Yingyan Lin and Jan Kautz and Pavlo Molchanov",
+    "venue": "ICLR",
+    "year": 2025,
+    "links": {
+      "project": "https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/"
+    },
+    "tags": []
+  },
+  {
+    "id": "flextron-many-in-one-flexible-large-language-model",
+    "title": "Flextron: Many-in-One Flexible Large Language Model",
+    "authors": "Ruisi Cai and Saurav Muralidharan and Greg Heinrich and Hongxu Yin and Zhangyang Wang and Jan Kautz and Pavlo Molchanov",
+    "venue": "ICML",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2406.10260"
+    },
+    "tags": []
+  },
+  {
+    "id": "eora-fine-tuning-free-compensation-for-compressed-llm-with-eigenspace-low-rank-approximation",
+    "title": "EoRA: Fine-tuning-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation",
+    "authors": "Shih-Yang Liu and Maksim Khadkevich and Nai Chit Fung and Charbel Sakr and Chao-Han Huck Yang and Chien-Yi Wang and Saurav Muralidharan and Hongxu Yin and Kwang-Ting Cheng and Jan Kautz and Yu-Chiang Frank Wang and Pavlo Molchanov and Min-Hung Chen",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2410.21271"
+    },
+    "tags": []
+  },
+  {
+    "id": "entropy-regularized-process-reward-model",
+    "title": "Entropy-regularized process reward model",
+    "authors": "Hanning Zhang and Pengcheng Wang and Shizhe Diao and Yong Lin and Rui Pan and Hanze Dong and Dylan Zhang and Pavlo Molchanov and Tong Zhang",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2412.11006"
+    },
+    "tags": []
+  },
+  {
+    "id": "dora-weight-decomposed-low-rank-adaptation",
+    "title": "Dora: Weight-decomposed low-rank adaptation",
+    "authors": "Shih-Yang Liu and Chien-Yi Wang and Hongxu Yin and Pavlo Molchanov and Yu-Chiang Frank Wang and Kwang-Ting Cheng and Min-Hung Chen",
+    "venue": "ICML",
+    "year": 2024,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2402.09353",
+      "code": "https://github.com/NVlabs/DoRA",
+      "project": "https://nbasyl.github.io/DoRA-project-page/"
+    },
+    "tags": [
+      "LLM",
+      "PEFT"
+    ]
+  },
+  {
+    "id": "compact-language-models-via-pruning-and-knowledge-distillation",
+    "title": "Compact language models via pruning and knowledge distillation",
+    "authors": "Saurav Muralidharan and Sharath Turuvekere Sreenivas and Raviraj Joshi and Marcin Chochowski and Mostofa Patwary and Mohammad Shoeybi and Bryan Catanzaro and Jan Kautz and Pavlo Molchanov",
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "links": {
+      "project": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/4822991365c962105b1b95b1107d30e5-Abstract-Conference.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "coin-control-inpainting-diffusion-prior-for-human-and-camera-motion-estimation",
+    "title": "Coin: Control-inpainting diffusion prior for human and camera motion estimation",
+    "authors": "Jiefeng Li and Ye Yuan and Davis Rempe and Haotian Zhang and Pavlo Molchanov and Cewu Lu and Jan Kautz and Umar Iqbal",
+    "venue": "ECCV",
+    "year": 2024,
+    "links": {
+      "project": "https://link.springer.com/chapter/10.1007/978-3-031-72640-8_24"
+    },
+    "tags": []
+  },
+  {
+    "id": "am-radio-agglomerative-vision-foundation-model-reduce-all-domains-into-one",
+    "title": "Am-radio: Agglomerative vision foundation model reduce all domains into one",
+    "authors": "Mike Ranzinger and Greg Heinrich and Jan Kautz and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": 2024,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2024/html/Ranzinger_AM-RADIO_Agglomerative_Vision_Foundation_Model_Reduce_All_Domains_Into_One_CVPR_2024_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "am-radio-reduce-all-domains-into-one",
+    "title": "AM-RADIO: Reduce All Domains Into One",
+    "authors": "Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2024,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2312.09158"
+    },
+    "tags": [
+      "Vision",
+      "Foundation Models"
+    ]
+  },
+  {
+    "id": "a-deeper-look-at-depth-pruning-of-llms",
+    "title": "A deeper look at depth pruning of llms",
+    "authors": "Shoaib Ahmed Siddiqui and Xin Dong and Greg Heinrich and Thomas Breuel and Jan Kautz and David Krueger and Pavlo Molchanov",
+    "venue": "arXiv",
+    "year": 2024,
+    "links": {
+      "project": "https://arxiv.org/abs/2407.16286"
+    },
+    "tags": []
+  },
+  {
+    "id": "recurrence-without-recurrence-stable-video-landmark-detection-with-deep-equilibrium-models",
+    "title": "Recurrence without recurrence: Stable video landmark detection with deep equilibrium models",
+    "authors": "Paul Micaelli and Arash Vahdat and Hongxu Yin and Jan Kautz and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": 2023,
+    "links": {
+      "pdf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Micaelli_Recurrence_Without_Recurrence_Stable_Video_Landmark_Detection_With_Deep_Equilibrium_CVPR_2023_paper.pdf",
+      "project": "http://openaccess.thecvf.com/content/CVPR2023/html/Micaelli_Recurrence_Without_Recurrence_Stable_Video_Landmark_Detection_With_Deep_Equilibrium_CVPR_2023_paper.html"
+    },
+    "tags": [
+      "DEQ",
+      "Video"
+    ]
+  },
+  {
+    "id": "rana-relightable-articulated-neural-avatars",
+    "title": "Rana: Relightable articulated neural avatars",
+    "authors": "Umar Iqbal and Akin Caliskan and Koki Nagano and Sameh Khamis and Pavlo Molchanov and Jan Kautz",
+    "venue": "ICCV",
+    "year": 2023,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/ICCV2023/html/Iqbal_RANA_Relightable_Articulated_Neural_Avatars_ICCV_2023_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "heterogeneous-continual-learning",
+    "title": "Heterogeneous continual learning",
+    "authors": "Divyam Madaan and Hongxu Yin and Wonmin Byeon and Jan Kautz and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": 2023,
+    "links": {
+      "pdf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_paper.pdf",
+      "project": "http://openaccess.thecvf.com/content/CVPR2023/html/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_paper.html"
+    },
+    "tags": [
+      "Continual Learning"
+    ]
+  },
+  {
+    "id": "global-vision-transformer-pruning-with-hessian-aware-saliency",
+    "title": "Global vision transformer pruning with hessian-aware saliency",
+    "authors": "Huanrui Yang and Hongxu Yin and Maying Shen and Pavlo Molchanov and Hai Li and Jan Kautz",
+    "venue": "CVPR",
+    "year": 2023,
+    "links": {
+      "pdf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Global_Vision_Transformer_Pruning_With_Hessian-Aware_Saliency_CVPR_2023_paper.pdf",
+      "project": "http://openaccess.thecvf.com/content/CVPR2023/html/Yang_Global_Vision_Transformer_Pruning_With_Hessian-Aware_Saliency_CVPR_2023_paper.html"
+    },
+    "tags": [
+      "Pruning",
+      "ViT"
+    ]
+  },
+  {
+    "id": "global-context-vision-transformers",
+    "title": "Global context vision transformers",
+    "authors": "Ali Hatamizadeh and Hongxu Yin and Greg Heinrich and Jan Kautz and Pavlo Molchanov",
+    "venue": "",
+    "year": 2023,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2206.09959",
+      "code": "https://github.com/NVlabs/GCVit",
+      "project": "https://proceedings.mlr.press/v202/hatamizadeh23a.html"
+    },
+    "tags": [
+      "Transformers",
+      "Vision"
+    ]
+  },
+  {
+    "id": "fastervit-fast-vision-transformers-with-hierarchical-attention",
+    "title": "Fastervit: Fast vision transformers with hierarchical attention",
+    "authors": "Ali Hatamizadeh and Greg Heinrich and Hongxu Yin and Andrew Tao and Jose M Alvarez and Jan Kautz and Pavlo Molchanov",
+    "venue": "ICLR2024",
+    "year": 2023,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2306.06189",
+      "code": "https://github.com/NVlabs/FasterViT",
+      "project": "https://arxiv.org/abs/2306.06189"
+    },
+    "tags": [
+      "Efficiency",
+      "Transformers",
+      "Vision"
+    ]
+  },
+  {
+    "id": "do-gradient-inversion-attacks-make-federated-learning-unsafe",
+    "title": "Do gradient inversion attacks make federated learning unsafe?",
+    "authors": "Ali Hatamizadeh and Hongxu Yin and Pavlo Molchanov and Andriy Myronenko and Wenqi Li and Prerna Dogra and Andrew Feng and Mona G Flores and Jan Kautz and Daguang Xu and Holger R Roth",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "year": 2023,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/10025466/"
+    },
+    "tags": []
+  },
+  {
+    "id": "adaptive-sharpness-aware-pruning-for-robust-sparse-networks",
+    "title": "Adaptive sharpness-aware pruning for robust sparse networks",
+    "authors": "Anna Bair and Hongxu Yin and Maying Shen and Pavlo Molchanov and Jose Alvarez",
+    "venue": "ICLR2024",
+    "year": 2023,
+    "links": {
+      "project": "https://arxiv.org/abs/2306.14306"
+    },
+    "tags": []
+  },
+  {
+    "id": "when-to-prune-a-policy-towards-early-structural-pruning",
+    "title": "When to prune? a policy towards early structural pruning",
+    "authors": "Maying Shen and Pavlo Molchanov and Hongxu Yin and Jose M Alvarez",
+    "venue": "CVPR",
+    "year": 2022,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2022/html/Shen_When_To_Prune_A_Policy_Towards_Early_Structural_Pruning_CVPR_2022_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "towards-dynamic-sparsification-by-iterative-prune-grow-lookaheads",
+    "title": "Towards dynamic sparsification by iterative prune-grow lookaheads",
+    "authors": "Xinglong Sun and Maying Shen and Hongxu Yin and Lei Mao and Pavlo Molchanov and Jose M Alvarez",
+    "venue": "ICLR",
+    "year": 2022,
+    "links": {
+      "project": "https://openreview.net/forum?id=mKNAOg7CLX"
+    },
+    "tags": []
+  },
+  {
+    "id": "towards-annotation-efficient-segmentation-via-image-to-image-translation",
+    "title": "Towards annotation-efficient segmentation via image-to-image translation",
+    "authors": "Eugene Vorontsov and Pavlo Molchanov and Matej Gazda and Christopher Beckham and Jan Kautz and Samuel Kadoury",
+    "venue": "Medical Image Analysis",
+    "year": 2022,
+    "links": {
+      "project": "https://www.sciencedirect.com/science/article/pii/S1361841522002523"
+    },
+    "tags": []
+  },
+  {
+    "id": "structural-pruning-via-latency-saliency-knapsack",
+    "title": "Structural pruning via latency-saliency knapsack",
+    "authors": "Maying Shen and Hongxu Yin and Pavlo Molchanov and Lei Mao and Jianna Liu and Jose M Alvarez",
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "links": {
+      "pdf": "https://proceedings.neurips.cc/paper_files/paper/2022/file/1e66f2fc9ae33bd44a14d28bf1ecc7a4-Paper-Conference.pdf",
+      "project": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/5434be94e82c54327bb9dcaf7fca52b6-Abstract-Conference.html"
+    },
+    "tags": [
+      "Efficiency",
+      "Pruning"
+    ]
+  },
+  {
+    "id": "lana-latency-aware-network-acceleration",
+    "title": "LANA: latency aware network acceleration",
+    "authors": "Pavlo Molchanov and Jimmy Hall and Hongxu Yin and Jan Kautz and Nicolo Fusi and Arash Vahdat",
+    "venue": "ECCV",
+    "year": 2022,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2207.10008",
+      "project": "https://link.springer.com/chapter/10.1007/978-3-031-19775-8_9"
+    },
+    "tags": [
+      "Compression",
+      "NAS"
+    ]
+  },
+  {
+    "id": "gradvit-gradient-inversion-of-vision-transformers",
+    "title": "Gradvit: Gradient inversion of vision transformers",
+    "authors": "Ali Hatamizadeh and Hongxu Yin and Holger R Roth and Wenqi Li and Jan Kautz and Daguang Xu and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": 2022,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2022/html/Hatamizadeh_GradViT_Gradient_Inversion_of_Vision_Transformers_CVPR_2022_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "glamr-global-occlusion-aware-human-mesh-recovery-with-dynamic-cameras",
+    "title": "Glamr: Global occlusion-aware human mesh recovery with dynamic cameras",
+    "authors": "Ye Yuan and Umar Iqbal and Pavlo Molchanov and Kris Kitani and Jan Kautz",
+    "venue": "CVPR",
+    "year": 2022,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2022/html/Yuan_GLAMR_Global_Occlusion-Aware_Human_Mesh_Recovery_With_Dynamic_Cameras_CVPR_2022_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "dracon-differentiable-rasterization-conditioned-neural-radiance-fields-for-articulated-avatars",
+    "title": "DRaCoN--Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars",
+    "authors": "Amit Raj and Umar Iqbal and Koki Nagano and Sameh Khamis and Pavlo Molchanov and James Hays and Jan Kautz",
+    "venue": "arXiv",
+    "year": 2022,
+    "links": {
+      "project": "https://arxiv.org/abs/2203.15798"
+    },
+    "tags": []
+  },
+  {
+    "id": "avit-adaptive-tokens-for-efficient-vision-transformer",
+    "title": "AViT: Adaptive Tokens for Efficient Vision Transformer",
+    "authors": "H. Yin, A. Vahdat, J. Alvarez, A. Mallya, J. Kautz, P. Molchanov",
+    "venue": "CVPR",
+    "year": 2022,
+    "links": {
+      "pdf": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_AViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.pdf",
+      "code": "https://github.com/NVlabs/AViT"
+    },
+    "tags": [
+      "Transformers",
+      "Adaptive Inference"
+    ]
+  },
+  {
+    "id": "a-vit-adaptive-tokens-for-efficient-vision-transformer",
+    "title": "A-vit: Adaptive tokens for efficient vision transformer",
+    "authors": "Hongxu Yin and Arash Vahdat and Jose M Alvarez and Arun Mallya and Jan Kautz and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": 2022,
+    "links": {
+      "project": "https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html?ref=https://githubhelp.com"
+    },
+    "tags": []
+  },
+  {
+    "id": "towards-understanding-the-risks-of-gradient-inversion-in-federated-learning",
+    "title": "Towards understanding the risks of gradient inversion in federated learning",
+    "authors": "Ali Hatamizadeh and Hongxu Yin and Pavlo Molchanov and Andriy Myronenko and Wenqi Li and Prerna Dogra and Andrew Feng and Mona Flores and Jan Kautz and Daguang Xu and Holger Roth",
+    "venue": "",
+    "year": 2021,
+    "links": {
+      "project": "https://www.researchsquare.com/article/rs-1147182/latest"
+    },
+    "tags": []
+  },
+  {
+    "id": "see-through-gradients-image-batch-recovery-via-gradinversion",
+    "title": "See through gradients: Image batch recovery via gradinversion",
+    "authors": "Hongxu Yin and Arun Mallya and Arash Vahdat and Jose M Alvarez and Jan Kautz and Pavlo Molchanov",
+    "venue": "CVPR 2021",
+    "year": 2021,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2021/html/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "privacy-vulnerability-of-split-computing-to-data-free-model-inversion-attacks",
+    "title": "Privacy vulnerability of split computing to data-free model inversion attacks",
+    "authors": "Xin Dong and Hongxu Yin and Jose M Alvarez and Jan Kautz and Pavlo Molchanov and HT Kung",
+    "venue": "arXiv",
+    "year": 2021,
+    "links": {
+      "project": "https://arxiv.org/abs/2107.06304"
+    },
+    "tags": []
+  },
+  {
+    "id": "optimizing-selective-protection-for-cnn-resilience",
+    "title": "Optimizing Selective Protection for CNN Resilience.",
+    "authors": "Abdulrahman Mahmoud and Siva Kumar Sastry Hari and Christopher W Fletcher and Sarita V Adve and Charbel Sakr and Naresh R Shanbhag and Pavlo Molchanov and Michael B Sullivan and Timothy Tsai and Stephen W Keckler",
+    "venue": "ISSRE",
+    "year": 2021,
+    "links": {
+      "project": "https://www.academia.edu/download/96566690/ISSRE_2021_Ensemble_Resilience.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "optimal-quantization-using-scaled-codebook",
+    "title": "Optimal quantization using scaled codebook",
+    "authors": "Yerlan Idelbayev and Pavlo Molchanov and Maying Shen and Hongxu Yin and Miguel A Carreira-Perpin\u00e1n and Jose M Alvarez",
+    "venue": "CVPR 2021",
+    "year": 2021,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2021/html/Idelbayev_Optimal_Quantization_Using_Scaled_Codebook_CVPR_2021_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "nvit-vision-transformer-compression-and-parameter-redistribution",
+    "title": "Nvit: Vision transformer compression and parameter redistribution",
+    "authors": "Huanrui Yang and Hongxu Yin and Pavlo Molchanov and Hai Li and Jan Kautz",
+    "venue": "CoRR",
+    "year": 2021,
+    "links": {
+      "project": "https://openreview.net/forum?id=tFQWEdakw7"
+    },
+    "tags": []
+  },
+  {
+    "id": "kama-3d-keypoint-aware-body-mesh-articulation",
+    "title": "Kama: 3d keypoint aware body mesh articulation",
+    "authors": "Umar Iqbal and Kevin Xie and Yunrong Guo and Jan Kautz and Pavlo Molchanov",
+    "venue": "IEEE Conference",
+    "year": 2021,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/9665918/"
+    },
+    "tags": []
+  },
+  {
+    "id": "halp-hardware-aware-latency-pruning",
+    "title": "Halp: hardware-aware latency pruning",
+    "authors": "Maying Shen and Hongxu Yin and Pavlo Molchanov and Lei Mao and Jianna Liu and Jose M Alvarez",
+    "venue": "arXiv",
+    "year": 2021,
+    "links": {
+      "project": "https://arxiv.org/abs/2110.10811"
+    },
+    "tags": []
+  },
+  {
+    "id": "hant-hardware-aware-network-transformation",
+    "title": "HANT: hardware-aware network transformation",
+    "authors": "Pavlo Molchanov and Jimmy Hall and Hongxu Yin and Jan Kautz and Nicol\u00f2 Fusi and Arash Vahdat",
+    "venue": "arXiv preprint arXiv:2107.10624",
+    "year": 2021,
+    "links": {
+      "project": "https://scholar.google.com/scholar?cluster=14133149891771778632&hl=en&oi=scholarr"
+    },
+    "tags": []
+  },
+  {
+    "id": "dexycb-a-benchmark-for-capturing-hand-grasping-of-objects",
+    "title": "DexYCB: A benchmark for capturing hand grasping of objects",
+    "authors": "Yu-Wei Chao and Wei Yang and Yu Xiang and Pavlo Molchanov and Ankur Handa and Jonathan Tremblay and Yashraj S Narang and Karl Van Wyk and Umar Iqbal and Stan Birchfield and Jan Kautz and Dieter Fox",
+    "venue": "CVPR 2021",
+    "year": 2021,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2021/html/Chao_DexYCB_A_Benchmark_for_Capturing_Hand_Grasping_of_Objects_CVPR_2021_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "deep-neural-networks-are-surprisingly-reversible-a-baseline-for-zero-shot-inversion",
+    "title": "Deep neural networks are surprisingly reversible: a baseline for zero-shot inversion",
+    "authors": "Xin Dong and Hongxu Yin and Jose M Alvarez and Jan Kautz and Pavlo Molchanov",
+    "venue": "CoRR",
+    "year": 2021,
+    "links": {
+      "project": "https://openreview.net/forum?id=j5ihQdn726"
+    },
+    "tags": []
+  },
+  {
+    "id": "data-free-knowledge-distillation-for-object-detection",
+    "title": "Data-free knowledge distillation for object detection",
+    "authors": "Akshay Chawla and Hongxu Yin and Pavlo Molchanov and Jose Alvarez",
+    "venue": "WACV",
+    "year": 2021,
+    "links": {
+      "project": "https://openaccess.thecvf.com/content/WACV2021/html/Chawla_Data-Free_Knowledge_Distillation_for_Object_Detection_WACV_2021_paper.html?ref=https://giter.vip"
+    },
+    "tags": []
+  },
+  {
+    "id": "adversarial-motion-modelling-helps-semi-supervised-hand-pose-estimation",
+    "title": "Adversarial motion modelling helps semi-supervised hand pose estimation",
+    "authors": "Adrian Spurr and Pavlo Molchanov and Umar Iqbal and Jan Kautz and Otmar Hilliges",
+    "venue": "arXiv",
+    "year": 2021,
+    "links": {
+      "project": "https://arxiv.org/abs/2106.05954"
+    },
+    "tags": []
+  },
+  {
+    "id": "adavit-adaptive-tokens-for-efficient-vision-transformer",
+    "title": "AdaViT: Adaptive tokens for efficient vision transformer",
+    "authors": "Hongxu Yin and Arash Vahdat and Jose Alvarez and Arun Mallya and Jan Kautz and Pavlo Molchanov",
+    "venue": "arXiv",
+    "year": 2021,
+    "links": {
+      "project": "https://arxiv.org/abs/2112.07658"
+    },
+    "tags": []
+  },
+  {
+    "id": "weakly-supervised-3d-human-pose-learning-via-multi-view-images-in-the-wild",
+    "title": "Weakly-supervised 3d human pose learning via multi-view images in the wild",
+    "authors": "Umar Iqbal and Pavlo Molchanov and Jan Kautz",
+    "venue": "CVPR 2020",
+    "year": 2020,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_CVPR_2020/html/Iqbal_Weakly-Supervised_3D_Human_Pose_Learning_via_Multi-View_Images_in_the_CVPR_2020_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "weakly-supervised-3d-hand-pose-estimation-via-biomechanical-constraints",
+    "title": "Weakly supervised 3d hand pose estimation via biomechanical constraints",
+    "authors": "Adrian Spurr and Umar Iqbal and Pavlo Molchanov and Otmar Hilliges and Jan Kautz",
+    "venue": "ECCV",
+    "year": 2020,
+    "links": {
+      "project": "https://link.springer.com/chapter/10.1007/978-3-030-58520-4_13"
+    },
+    "tags": []
+  },
+  {
+    "id": "measuring-generalisation-to-unseen-viewpoints-articulations-shapes-and-objects-for-3d-hand-pose-estimation-under-hand-object-interaction",
+    "title": "Measuring generalisation to unseen viewpoints, articulations, shapes and objects for 3D hand pose estimation under hand-object interaction",
+    "authors": "Anil Armagan and Guillermo Garcia-Hernando and Seungryul Baek and Shreyas Hampali and Mahdi Rad and Zhaohui Zhang and Shipeng Xie and MingXiu Chen and Boshen Zhang and Fu Xiong and Yang Xiao and Zhiguo Cao and Junsong Yuan and Pengfei Ren and Weiting Huang and Haifeng Sun and Marek Hr\u00faz and Jakub Kanis and Zden\u011bk Kr\u0148oul and Qingfu Wan and Shile Li and Linlin Yang and Dongheui Lee and Angela Yao and Weiguo Zhou and Sijia Mei and Yunhui Liu and Adrian Spurr and Umar Iqbal and Pavlo Molchanov and Philippe Weinzaepfel and Romain Br\u00e9gier and Gr\u00e9gory Rogez and Vincent Lepetit and Tae-Kyun Kim",
+    "venue": "ECCV",
+    "year": 2020,
+    "links": {
+      "project": "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_6"
+    },
+    "tags": []
+  },
+  {
+    "id": "hardnn-feature-map-vulnerability-evaluation-in-cnns",
+    "title": "HarDNN: Feature map vulnerability evaluation in CNNs",
+    "authors": "Abdulrahman Mahmoud and Siva Kumar Sastry Hari and Christopher W Fletcher and Sarita V Adve and Charbel Sakr and Naresh Shanbhag and Pavlo Molchanov and Michael B Sullivan and Timothy Tsai and Stephen W Keckler",
+    "venue": "arXiv",
+    "year": 2020,
+    "links": {
+      "project": "https://arxiv.org/abs/2002.09786"
+    },
+    "tags": []
+  },
+  {
+    "id": "dreaming-to-distill-data-free-knowledge-transfer-via-deepinversion",
+    "title": "Dreaming to distill: Data-free knowledge transfer via deepinversion",
+    "authors": "Hongxu Yin and Pavlo Molchanov and Jose M Alvarez and Zhizhong Li and Arun Mallya and Derek Hoiem and Niraj K Jha and Jan Kautz",
+    "venue": "CVPR 2020",
+    "year": 2020,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2006.05525",
+      "code": "https://github.com/NVlabs/DeepInversion",
+      "project": "http://openaccess.thecvf.com/content_CVPR_2020/html/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.html"
+    },
+    "tags": [
+      "Knowledge Distillation"
+    ]
+  },
+  {
+    "id": "towards-semi-supervised-segmentation-via-image-to-image-translation",
+    "title": "Towards semi-supervised segmentation via image-to-image translation",
+    "authors": "Eugene Vorontsov and Pavlo Molchanov and Christopher Beckham and Wonmin Byeon and SD Mello and Varun Jampani and Ming-Yu Liu and Samuel Kadoury and Jan Kautz",
+    "venue": "ICLR 2019",
+    "year": 2019,
+    "links": {
+      "project": "https://openreview.net/pdf?id=pOzDyeymTo"
+    },
+    "tags": []
+  },
+  {
+    "id": "scops-self-supervised-co-part-segmentation",
+    "title": "Scops: Self-supervised co-part segmentation",
+    "authors": "Wei-Chih Hung and Varun Jampani and Sifei Liu and Pavlo Molchanov and Ming-Hsuan Yang and Jan Kautz",
+    "venue": "CVPR 2019",
+    "year": 2019,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_CVPR_2019/html/Hung_SCOPS_Self-Supervised_Co-Part_Segmentation_CVPR_2019_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "importance-estimation-for-neural-network-pruning",
+    "title": "Importance estimation for neural network pruning",
+    "authors": "Pavlo Molchanov and Arun Mallya and Stephen Tyree and Iuri Frosio and Jan Kautz",
+    "venue": "CVPR 2019",
+    "year": 2019,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_CVPR_2019/html/Molchanov_Importance_Estimation_for_Neural_Network_Pruning_CVPR_2019_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "few-shot-adaptive-gaze-estimation",
+    "title": "Few-shot adaptive gaze estimation",
+    "authors": "Seonwook Park and Shalini De Mello and Pavlo Molchanov and Umar Iqbal and Otmar Hilliges and Jan Kautz",
+    "venue": "ICCV 2019",
+    "year": 2019,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_ICCV_2019/html/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "making-convolutional-networks-recurrent-for-visual-sequence-learning",
+    "title": "Making convolutional networks recurrent for visual sequence learning",
+    "authors": "Xiaodong Yang and Pavlo Molchanov and Jan Kautz",
+    "venue": "CVPR 2018",
+    "year": 2018,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_cvpr_2018/html/Yang_Making_Convolutional_Networks_CVPR_2018_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "improving-landmark-localization-with-semi-supervised-learning",
+    "title": "Improving landmark localization with semi-supervised learning",
+    "authors": "Sina Honari and Pavlo Molchanov and Stephen Tyree and Pascal Vincent and Christopher Pal and Jan Kautz",
+    "venue": "CVPR 2018",
+    "year": 2018,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_cvpr_2018/html/Honari_Improving_Landmark_Localization_CVPR_2018_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "iamnn-iterative-and-adaptive-mobile-neural-network-for-efficient-image-classification",
+    "title": "IamNN: Iterative and adaptive mobile neural network for efficient image classification",
+    "authors": "Sam Leroux and Pavlo Molchanov and Pieter Simoens and Bart Dhoedt and Thomas Breuel and Jan Kautz",
+    "venue": "arXiv",
+    "year": 2018,
+    "links": {
+      "project": "https://arxiv.org/abs/1804.10123"
+    },
+    "tags": []
+  },
+  {
+    "id": "hand-pose-estimation-via-latent-2-5-d-heatmap-regression",
+    "title": "Hand Pose Estimation via Latent 2.5 D Heatmap Regression",
+    "authors": "Umar Iqbal and Pavlo Molchanov and Thomas Breuel and Juergen Gall and Jan Kautz",
+    "venue": "ECCV",
+    "year": 2018,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_ECCV_2018/html/Umar_Iqbal_Hand_Pose_Estimation_ECCV_2018_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "depth-based-3d-hand-pose-estimation-from-current-achievements-to-future-goals",
+    "title": "Depth-based 3d hand pose estimation: From current achievements to future goals",
+    "authors": "Shanxin Yuan and Guillermo Garcia-Hernando and Bj\u00f6rn Stenger and Gyeongsik Moon and Ju Yong Chang and Kyoung Mu Lee and Pavlo Molchanov and Jan Kautz and Sina Honari and Liuhao Ge and Junsong Yuan and Xinghao Chen and Guijin Wang and Fan Yang and Kai Akiyama and Yang Wu and Qingfu Wan and Meysam Madadi and Sergio Escalera and Shile Li and Dongheui Lee and Iason Oikonomidis and Antonis Argyros and Tae-Kyun Kim",
+    "venue": "CVPR 2018",
+    "year": 2018,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_cvpr_2018/html/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "budget-aware-activity-detection-with-a-recurrent-policy-network",
+    "title": "Budget-aware activity detection with a recurrent policy network",
+    "authors": "Behrooz Mahasseni and Xiaodong Yang and Pavlo Molchanov and Jan Kautz",
+    "venue": "arXiv",
+    "year": 2017,
+    "links": {
+      "project": "https://arxiv.org/abs/1712.00097"
+    },
+    "tags": []
+  },
+  {
+    "id": "a-lightweight-approach-for-on-the-fly-reflectance-estimation",
+    "title": "A lightweight approach for on-the-fly reflectance estimation",
+    "authors": "Kihwan Kim and Jinwei Gu and Stephen Tyree and Pavlo Molchanov and Matthias Nie\u00dfner and Jan Kautz",
+    "venue": "ICCV 2017",
+    "year": 2017,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_iccv_2017/html/Kim_A_Lightweight_Approach_ICCV_2017_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "towards-selecting-robust-hand-gestures-for-automotive-interfaces",
+    "title": "Towards selecting robust hand gestures for automotive interfaces",
+    "authors": "Shalini Gupta and Pavlo Molchanov and Xiaodong Yang and Kihwan Kim and Stephen Tyree and Jan Kautz",
+    "venue": "IEEE Conference",
+    "year": 2016,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/7535566/"
+    },
+    "tags": []
+  },
+  {
+    "id": "pruning-convolutional-neural-networks-for-resource-efficient-inference",
+    "title": "Pruning convolutional neural networks for resource efficient inference",
+    "authors": "Pavlo Molchanov and Stephen Tyree and Tero Karras and Timo Aila and Jan Kautz",
+    "venue": "arXiv",
+    "year": 2016,
+    "links": {
+      "project": "https://arxiv.org/abs/1611.06440"
+    },
+    "tags": []
+  },
+  {
+    "id": "online-detection-and-classification-of-dynamic-hand-gestures-with-recurrent-3d-convolutional-neural-network",
+    "title": "Online detection and classification of dynamic hand gestures with recurrent 3d convolutional neural network",
+    "authors": "Pavlo Molchanov and Xiaodong Yang and Shalini Gupta and Kihwan Kim and Stephen Tyree and Jan Kautz",
+    "venue": "CVPR 2016",
+    "year": 2016,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content_cvpr_2016/html/Molchanov_Online_Detection_and_CVPR_2016_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "multilayer-and-multimodal-fusion-of-deep-neural-networks-for-video-classification",
+    "title": "Multilayer and multimodal fusion of deep neural networks for video classification",
+    "authors": "Xiaodong Yang and Pavlo Molchanov and Jan Kautz",
+    "venue": "",
+    "year": 2016,
+    "links": {
+      "project": "https://dl.acm.org/doi/abs/10.1145/2964284.2964297"
+    },
+    "tags": []
+  },
+  {
+    "id": "short-range-fmcw-monopulse-radar-for-hand-gesture-sensing",
+    "title": "Short-range FMCW monopulse radar for hand-gesture sensing",
+    "authors": "Pavlo Molchanov and Shalini Gupta and Kihwan Kim and Kari Pulli",
+    "venue": "IEEE Conference",
+    "year": 2015,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/7131232/"
+    },
+    "tags": []
+  },
+  {
+    "id": "range-doppler-surface-a-tool-to-analyse-human-target-in-ultra-wideband-radar",
+    "title": "Range\u2010Doppler surface: a tool to analyse human target in ultra\u2010wideband radar",
+    "authors": "Yuan He and Pavlo Molchanov and Takuya Sakamoto and Pascal Aubry and Francois Le Chevalier and Alexander Yarovoy",
+    "venue": "IET Radar, Sonar & Navigation",
+    "year": 2015,
+    "links": {
+      "project": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-rsn.2015.0065"
+    },
+    "tags": []
+  },
+  {
+    "id": "multi-sensor-system-for-driver-s-hand-gesture-recognition",
+    "title": "Multi-sensor system for driver's hand-gesture recognition",
+    "authors": "Pavlo Molchanov and Shalini Gupta and Kihwan Kim and Kari Pulli",
+    "venue": "IEEE Conference",
+    "year": 2015,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/7163132/"
+    },
+    "tags": []
+  },
+  {
+    "id": "hand-gesture-recognition-with-3d-convolutional-neural-networks",
+    "title": "Hand gesture recognition with 3D convolutional neural networks",
+    "authors": "Pavlo Molchanov and Shalini Gupta and Kihwan Kim and Jan Kautz",
+    "venue": "",
+    "year": 2015,
+    "links": {
+      "project": "https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W15/html/Molchanov_Hand_Gesture_Recognition_2015_CVPR_paper.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "classification-of-moving-ground-radar-objects-by-using-bispectrum-based-features",
+    "title": "Classification of Moving Ground Radar Objects by using Bispectrum-based Features",
+    "authors": "PO Molchanov and JT Astola and Karen O Egiazarian and AV Totsky",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2015,
+    "links": {
+      "project": "https://www.dl.begellhouse.com/journals/0632a9d54950b268,24f4e5e87a006fcc,1cce9b246c860408.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "radar-target-classification-by-micro-doppler-contributions",
+    "title": "Radar target classification by micro-Doppler contributions.",
+    "authors": "Pavlo O Molchanov",
+    "venue": "",
+    "year": 2014,
+    "links": {
+      "project": "https://trepo.tuni.fi/bitstream/handle/10024/114417/molchanov.pdf?sequence=2"
+    },
+    "tags": []
+  },
+  {
+    "id": "radar-micro-doppler-feature-extraction-using-the-singular-value-decomposition",
+    "title": "Radar micro-Doppler feature extraction using the singular value decomposition",
+    "authors": "JJM De Wit and RIA Harmanny and P Molchanov",
+    "venue": "IEEE Conference",
+    "year": 2014,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/7060268/"
+    },
+    "tags": []
+  },
+  {
+    "id": "classification-of-small-uavs-and-birds-by-micro-doppler-signatures",
+    "title": "Classification of small UAVs and birds by micro-Doppler signatures",
+    "authors": "Pavlo Molchanov and Ronny IA Harmanny and Jaco JM de Wit and Karen Egiazarian and Jaakko Astola",
+    "venue": "International Journal of Microwave and Wireless Technologies",
+    "year": 2014,
+    "links": {
+      "project": "https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/classification-of-small-uavs-and-birds-by-microdoppler-signatures/C5A57FC02BBC4261CE563738ED9D6D76"
+    },
+    "tags": []
+  },
+  {
+    "id": "classification-of-aircraft-using-micro-doppler-bicoherence-based-features",
+    "title": "Classification of aircraft using micro-Doppler bicoherence-based features",
+    "authors": "Pavlo Molchanov and Karen Egiazarian and Jaakko Astola and Alexander Totsky and Sergey Leshchenko and Maria Pilar Jarabo-Amores",
+    "venue": "IEEE Transactions on Aerospace and Electronic systems",
+    "year": 2014,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6850167/"
+    },
+    "tags": []
+  },
+  {
+    "id": "classification-of-aerial-targets-by-using-bicoherence-based-features-extracted-from-micro-doppler-contributions",
+    "title": "Classification of Aerial Targets by Using Bicoherence-Based Features Extracted from Micro-Doppler Contributions",
+    "authors": "P Molchanov and A Totsky and K Egiazarian and S Leshchenko and M Pilar Jarabo-Amores",
+    "venue": "IEEE Transaction on aerospace and electronic systems",
+    "year": 2014,
+    "links": {
+      "project": "https://scholar.google.com/scholar?cluster=10454505413440142668&hl=en&oi=scholarr"
+    },
+    "tags": []
+  },
+  {
+    "id": "a-novel-bispectrum-based-frequency-encoding-technique-developed-for-noisy-and-multipath-fading-radio-links",
+    "title": "A novel bispectrum-based frequency encoding technique developed for noisy and multipath fading radio links",
+    "authors": "PA Molchanov and JT Astola and Karen O Egiazarian and AV Totsky and AA Zelensky",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2014,
+    "links": {
+      "project": "https://www.dl.begellhouse.com/journals/0632a9d54950b268,3ab7421264836f68,62fe54f010644010.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "the-use-of-automotive-radars-in-video-based-overtaking-assistance-applications",
+    "title": "The use of automotive radars in video-based overtaking assistance applications",
+    "authors": "Evgeny Belyaev and Pavlo Molchanov and Alexey Vinel and Yevgeni Koucheryavy",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "year": 2013,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6494643/"
+    },
+    "tags": []
+  },
+  {
+    "id": "radar-frequency-band-invariant-pedestrian-classification",
+    "title": "Radar frequency band invariant pedestrian classification",
+    "authors": "Pavlo Molchanov and Alexey Vinel and Jaakko Astola and Karen Egiazarian",
+    "venue": "IEEE Conference",
+    "year": 2013,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6581667/"
+    },
+    "tags": []
+  },
+  {
+    "id": "on-micro-doppler-period-estimation",
+    "title": "On micro-Doppler period estimation",
+    "authors": "Pavlo Molchanov and Jaakko Astola and Karen Egiazarian and Alexander Totsky",
+    "venue": "IEEE Conference",
+    "year": 2013,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6569284/"
+    },
+    "tags": []
+  },
+  {
+    "id": "multi-frequency-encoding-technique-using-phase-coupling-in-wireless-communication-systems",
+    "title": "Multi-frequency encoding technique using phase coupling in wireless communication systems",
+    "authors": "PA Molchanov and JT Astola and Karen O Egiazarian and AV Totsky and AA Zelensky",
+    "venue": "IEEE Conference",
+    "year": 2013,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6530928/"
+    },
+    "tags": []
+  },
+  {
+    "id": "classification-of-ground-moving-targets-using-bicepstrum-based-features-extracted-from-micro-doppler-radar-signatures",
+    "title": "Classification of ground moving targets using bicepstrum-based features extracted from micro-Doppler radar signatures",
+    "authors": "Pavlo O Molchanov and Jaakko T Astola and Karen O Egiazarian and Alexander V Totsky",
+    "venue": "EURASIP Journal on Advances in Signal Processing",
+    "year": 2013,
+    "links": {
+      "project": "https://link.springer.com/article/10.1186/1687-6180-2013-61"
+    },
+    "tags": []
+  },
+  {
+    "id": "frequency-and-phase-coupling-phenomenon-in-micro-doppler-radar-signature-of-walking-human",
+    "title": "Frequency and phase coupling phenomenon in micro-Doppler radar signature of walking human",
+    "authors": "Pavlo Molchanov and Jaakko Astola and Karen Egiazarian and Alexander Totsky",
+    "venue": "IEEE Conference",
+    "year": 2012,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6233287/"
+    },
+    "tags": []
+  },
+  {
+    "id": "classification-of-ground-moving-radar-targets-by-using-joint-time-frequency-analysis",
+    "title": "Classification of ground moving radar targets by using joint time-frequency analysis",
+    "authors": "Pavlo Molchanov and Jaakko Astola and Karen Egiazarian and Alexander Totsky",
+    "venue": "IEEE Conference",
+    "year": 2012,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6212166/"
+    },
+    "tags": []
+  },
+  {
+    "id": "aerial-target-classification-by-micro-doppler-signatures-and-bicoherence-based-features",
+    "title": "Aerial target classification by micro-Doppler signatures and bicoherence-based features",
+    "authors": "Pavlo Molchanov and Alexander Totsky and Jaakko Astola and Karen Egiazarian and Sergey Leshchenko and Manuel Rosa-Zurera",
+    "venue": "IEEE Conference",
+    "year": 2012,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6450675/"
+    },
+    "tags": []
+  },
+  {
+    "id": "target-classification-by-using-pattern-features-extracted-from-bispectrum-based-radar-doppler-signatures",
+    "title": "Target classification by using pattern features extracted from bispectrum-based radar Doppler signatures",
+    "authors": "Pavlo O Molchanov and Jaakko T Astola and Karen O Egiazarian and Alexander V Totsky",
+    "venue": "IEEE Conference",
+    "year": 2011,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6042215/"
+    },
+    "tags": []
+  },
+  {
+    "id": "statistical-radio-physics-bispectrum-based-time-frequency-distributions-used-for-moving-target-recognition-in-ground-doppler-surveillance-radar-systems",
+    "title": "STATISTICAL RADIO PHYSICS-Bispectrum-Based Time-Frequency Distributions Used for Moving Target Recognition in Ground Doppler Surveillance Radar Systems",
+    "authors": "AV Totsky and PA Molchanov and GI Khlopov and V Ye Morozov",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2011,
+    "links": {
+      "project": "https://scholar.google.com/scholar?cluster=11701166406056597003&hl=en&oi=scholarr"
+    },
+    "tags": []
+  },
+  {
+    "id": "moving-target-classification-in-ground-surveillance-radar-atr-system-by-using-novel-bicepstral-based-information-features",
+    "title": "Moving target classification in ground surveillance radar ATR system by using novel bicepstral-based information features",
+    "authors": "Pavlo O Molchanov and Jaakko T Astola and Karen O Egiazarian and Alexander V Totsky",
+    "venue": "IEEE Conference",
+    "year": 2011,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6101003/"
+    },
+    "tags": []
+  },
+  {
+    "id": "ground-moving-target-classification-by-using-dct-coefficients-extracted-from-micro-doppler-radar-signatures-and-artificial-neuron-network",
+    "title": "Ground moving target classification by using DCT coefficients extracted from micro-Doppler radar signatures and artificial neuron network",
+    "authors": "Pavlo Molchanov and Jaakko Astola and Karen Egiazarian and Alexander Totsky",
+    "venue": "IEEE Conference",
+    "year": 2011,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6053628/"
+    },
+    "tags": []
+  },
+  {
+    "id": "bispectrum-based-time-frequency-distributions-used-for-moving-target-recognition-in-ground-doppler-surveillance-radar-systems",
+    "title": "Bispectrum-based time-frequency distributions used for moving target recognition in ground doppler surveillance radar systems",
+    "authors": "AV Totsky and PA Molchanov and GI Khlopov and V Ye Morozov",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2011,
+    "links": {
+      "project": "https://www.dl.begellhouse.com/journals/0632a9d54950b268,15643d7d0f72784c,45e33183669098e7.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "reduction-of-aspect-dependent-speckle-fluctuations-in-high-resolution-radar-range-profiles",
+    "title": "Reduction of aspect dependent speckle fluctuations in high-resolution radar range profiles",
+    "authors": "Jaakko T Astola and Karen O Egiazarian and Pavlo A Molchanov and VM Orlenko and AV Totsky",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2010,
+    "links": {
+      "project": "https://www.dl.begellhouse.com/journals/0632a9d54950b268,605d59d910023bea,0815fdad62257ea4.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "object-recognition-in-ground-surveillance-doppler-radar-by-using-bispectrum-based-time-frequency-distributions",
+    "title": "Object recognition in ground surveillance Doppler radar by using bispectrum-based time-frequency distributions",
+    "authors": "Pavel A Molchanov and Jaakko T Astola and Karen O Egiazarian and Grigory I Khlopov and Vladimir Ye Morozov and Boris B Pospelov and Alexander V Totsky",
+    "venue": "IEEE Conference",
+    "year": 2010,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/5547495/"
+    },
+    "tags": []
+  },
+  {
+    "id": "signal-detection-in-additive-gaussian-noise-doppler-frequency-shift-and-propagation-fading-fluctuations-environment-by-using-third-order-test-statistics",
+    "title": "Signal detection in additive Gaussian noise, Doppler frequency shift and propagation fading fluctuations environment by using third-order test statistics",
+    "authors": "Karen O Egiazarian and Vladimir V Lukin and Pavel A Molchanov and Alexey A Roenko and Alexander V Totsky and Alexander A Zelensky",
+    "venue": "",
+    "year": 2009,
+    "links": {
+      "project": "https://researchportal.tuni.fi/en/publications/signal-detection-in-additive-gaussian-noise-doppler-frequency-shi"
+    },
+    "tags": []
+  },
+  {
+    "id": "doppler-radar-signatures-analysis-by-using-joint-bispectrum-based-time-frequency-distributions",
+    "title": "Doppler radar signatures analysis by using joint bispectrum-based time-frequency distributions",
+    "authors": "Jaakko T Astola and Karen O Egiazarian and Pavel A Molchanov and Alexander V Totsky",
+    "venue": "IEEE Conference",
+    "year": 2009,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/5278393/"
+    },
+    "tags": []
+  },
+  {
+    "id": "time-frequency-analysis-of-the-non-stationary-multi-frequency-signals-by-using-parametrical-short-time-bispectral-density-estimation",
+    "title": "Time-frequency analysis of the non-stationary multi-frequency signals by using parametrical short-time bispectral density estimation",
+    "authors": "Pavel Molchanov and Alexander Totsky",
+    "venue": "IEEE Conference",
+    "year": 2008,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/5423517/"
+    },
+    "tags": []
+  },
+  {
+    "id": "signal-reconstruction-by-using-normalized-bispectrum-estimates-in-noise",
+    "title": "Signal reconstruction by using normalized bispectrum estimates in noise",
+    "authors": "JT Astola and KO Egiazarian and PA Molchanov and AV Totsky",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2008,
+    "links": {
+      "project": "https://elibrary.ru/item.asp?id=27869035"
+    },
+    "tags": []
+  },
+  {
+    "id": "comparative-analysis-of-spectrum-and-bispectrum-estimations-of-coherent-millimeter-radar-signals-scattered-by-vegetation-and-precipitation",
+    "title": "Comparative analysis of spectrum and bispectrum estimations of coherent millimeter radar signals scattered by vegetation and precipitation",
+    "authors": "Grigory I Khlopov and Stanislav I Khomenko and Vladimir Ye Morozov and Pavel A Molchanov and Alexander L Tepliuk and Alexander V Totsky",
+    "venue": "IEEE Conference",
+    "year": 2008,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/4585729/"
+    },
+    "tags": []
+  },
+  {
+    "id": "bispectrum-based-methods-and-algorithms-for-radar-telecommunication-signal-processing-and-digital-image-reconstruction",
+    "title": "Bispectrum-based methods and algorithms for radar, telecommunication signal processing and digital image reconstruction",
+    "authors": "AV Totsky and VV Lukin and AA Zelensky and JT Astola and KO Egiazarian and GI Khlopov and V Ye Morozov and IV Kurbatov and PA Molchanov and AA Roenko and DV Fevralev",
+    "venue": "EURASIP",
+    "year": 2008,
+    "links": {
+      "project": "https://www.researchgate.net/profile/Vladimir-Lukin-4/publication/265598284_Bispectrum-based_methods_and_algorithms_for_radar_telecommunication_signal_processing_and_digital_image_reconstruction/links/5416be1a0cf2788c4b35e382/Bispectrum-based-methods-and-algorithms-for-radar-telecommunication-signal-processing-and-digital-image-reconstruction.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "application-of-triple-correlation-and-bispectrum-for-interference-immunity-improvement-in-telecommunications-systems",
+    "title": "Application of triple correlation and bispectrum for interference immunity improvement in telecommunications systems",
+    "authors": "Pavel Molchanov and Alexandr Totsky",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2008,
+    "links": {
+      "project": "https://sciendo.com/2/v2/download/article/10.2478/v10006-008-0032-9.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "new-noise-immunity-coding-technique-with-application-of-triple-correlation-and-bispectrum",
+    "title": "New noise immunity coding technique with application of triple correlation and bispectrum",
+    "authors": "AA Zelensky",
+    "venue": "Telecommunications and Radio Engineering",
+    "year": 2006,
+    "links": {
+      "project": "https://www.dl.begellhouse.com/journals/0632a9d54950b268,6785a04460837d36,74b7fb9661627f60.html"
+    },
+    "tags": []
+  },
+  {
+    "id": "zoomvlm-a-tuning-free-framework-for-efficient-video-understanding-via-adaptive-zooming-in-vision-language-models",
+    "title": "ZoomVLM: A Tuning-Free Framework for Efficient Video Understanding via Adaptive Zooming in Vision-Language Models",
+    "authors": "Zhongzhi Yu and Zheng Wang and Zhenyang Chen and Chaojian Li and Hyewon Suh and Yonggan Fu and Dachuan Shi and Hongxu Yin and Jan Kautz and Pavlo Molchanov and Yingyan Celine Lin",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=689MfSyeNz"
+    },
+    "tags": []
+  },
+  {
+    "id": "vila-2-vlm-augmented-vlm-with-self-improvement",
+    "title": "VILA^ 2: VLM Augmented VLM with Self-Improvement",
+    "authors": "Yunhao Fang and Ligeng Zhu and Yao Lu and Yan Wang and Pavlo Molchanov and Jan Kautz and Jang Hyun Cho and Marco Pavone and Song Han and Hongxu Yin",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=M2YCdfxNVx"
+    },
+    "tags": []
+  },
+  {
+    "id": "unast-unified-framework-for-neural-architecture-search-for-transformers",
+    "title": "UNAST: Unified framework for Neural Architecture Search for Transformers",
+    "authors": "Ilia Markov and D Yu Chenhan and Hongxu Yin and Saurav Muralidharan and Greg Heinrich and Jan Kautz and Dan Alistarh and Pavlo Molchanov",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=Z3waKPN7DG"
+    },
+    "tags": []
+  },
+  {
+    "id": "supplementary-material-glamr-global-occlusion-aware-human-mesh-recovery-with-dynamic-cameras",
+    "title": "Supplementary Material: GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras",
+    "authors": "Ye Yuan and Umar Iqbal and Pavlo Molchanov and Kris Kitani and Jan Kautz",
+    "venue": "CVPR",
+    "year": null,
+    "links": {
+      "project": "http://openaccess.thecvf.com/content/CVPR2022/supplemental/Yuan_GLAMR_Global_Occlusion-Aware_CVPR_2022_supplemental.zip"
+    },
+    "tags": []
+  },
+  {
+    "id": "supplementary-material-for-heterogeneous-continual-learning",
+    "title": "Supplementary Material for Heterogeneous Continual Learning",
+    "authors": "Divyam Madaan and Hongxu Yin and Wonmin Byeon and Jan Kautz and Pavlo Molchanov",
+    "venue": "CVPR",
+    "year": null,
+    "links": {
+      "project": "https://openaccess.thecvf.com/content/CVPR2023/supplemental/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_supplemental.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "supplementary-material-vila-on-pre-training-for-visual-language-models",
+    "title": "Supplementary Material VILA: On Pre-training for Visual Language Models",
+    "authors": "Ji Lin and Hongxu Yin and Wei Ping and Pavlo Molchanov and Mohammad Shoeybi and Song Han",
+    "venue": "CVPR",
+    "year": null,
+    "links": {
+      "project": "https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_VILA_On_Pre-training_CVPR_2024_supplemental.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "phi-s-distribution-balancing-for-agglomerative-models",
+    "title": "PHI-S: Distribution Balancing for Agglomerative Models",
+    "authors": "Mike Ranzinger and Jon Barker and Greg Heinrich and Pavlo Molchanov and Jan Kautz and Bryan Catanzaro and Andrew Tao",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=rP7rghI7yt"
+    },
+    "tags": []
+  },
+  {
+    "id": "llamaflex-many-in-one-llms-via-generalized-pruning-and-weight-sharing",
+    "title": "LLaMaFlex: Many-in-one LLMs via Generalized Pruning and Weight Sharing",
+    "authors": "Ruisi Cai and Saurav Muralidharan and Hongxu Yin and Zhangyang Wang and Jan Kautz and Pavlo Molchanov",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=AyC4uxx2HW"
+    },
+    "tags": []
+  },
+  {
+    "id": "llm-pruning-and-distillation-in-practice",
+    "title": "LLM Pruning and Distillation in Practice",
+    "authors": "Sharath Turuvekere Sreenivas and Saurav Muralidharan and Raviraj Bhuminand Joshi and Marcin Chochowski and Mostofa Patwary and Pavlo Molchanov and Mohammad Shoeybi and Jan Kautz and Ameya Sunil Mahabaleshwarkar and Gerald Shen and Jiaqi Zeng and Oleksii Kuchaiev and ZIJIA CHEN and Yoshi Suhara and Shizhe Diao and Chenhan D Yu and Wei-Chun Chen and Hayley Ross and Daniel Korzekwa and Oluwatobi Olabiyi and Ashwath Aithal and Bryan Catanzaro",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=mMmzHS28ht"
+    },
+    "tags": []
+  },
+  {
+    "id": "kama-3d-keypoint-aware-body-mesh-articulation",
+    "title": "KAMA: 3D Keypoint Aware Body Mesh Articulation",
+    "authors": "Umar Iqbal Kevin Xie and Yunrong Guo and Jan Kautz and Pavlo Molchanov",
+    "venue": "",
+    "year": null,
+    "links": {
+      "project": "https://jankautz.com/publications/KAMA_3DV21.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "hardware-aware-network-transformation",
+    "title": "Hardware-Aware Network Transformation",
+    "authors": "Pavlo Molchanov and Jimmy Hall and Hongxu Yin and Jan Kautz and Nicolo Fusi and Arash Vahdat",
+    "venue": "ICLR",
+    "year": null,
+    "links": {
+      "project": "https://openreview.net/forum?id=RmzNH3A1cWc"
+    },
+    "tags": []
+  },
+  {
+    "id": "feature-map-vulnerability-evaluation-in-cnns",
+    "title": "FEATURE MAP VULNERABILITY EVALUATION IN CNNS",
+    "authors": "Abdulrahman Mahmoud and Siva Kumar Sastry Hari and Christopher W Fletcher and Sarita V Adve and Charbel Sakr and Naresh Shanbhag and Pavlo Molchanov and Michael B Sullivan and Timothy Tsai and Stephen W Keckler",
+    "venue": "",
+    "year": null,
+    "links": {
+      "project": "https://ma3mool.github.io/files/20-SARA-hardnn.pdf"
+    },
+    "tags": []
+  },
+  {
+    "id": "eumw2011-manchester-prizes",
+    "title": "EuMW2011 manchester prizes",
+    "authors": "EuMC Microwave Prize and FJ Schmueckle and R Doerner and GN Phung and W Heinrich and D Williams and U Arz and EuMC Young Engineers Prize and S Bildik and S Dieter and C Fritzsch and M Frei and C Fischer and W Menzel and R Jakoby and J Antes and D Lopez-Diaz and A Tessmann and A Leuther and H Massler and T Zwick and O Ambacher and I Kallfass and Filter Design Competition and YB Karandikar and L Sit and X Li and T Ta and PO Molchanov and JT Astola and KO Egiazarian and AV Totsky and EuRAD Young Engineers Prize and J Rovnakova and D Kocur and F Giacomozzi and O Karabey and F Goelden and A Moessinger and S Colpo and W McGenn and M Uren and J Powell and J Benedikt and P Tasker and GAAS Ass Student Fellowship and B Elkassir and S Wane and L Piazzon and P Colantonio and F Giannini and R Giofr\u00e8",
+    "venue": "IEEE Conference",
+    "year": null,
+    "links": {
+      "project": "https://ieeexplore.ieee.org/abstract/document/6483706/"
+    },
+    "tags": []
+  }
+]

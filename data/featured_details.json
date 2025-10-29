@@ -1,0 +1,87 @@
+{
+  "nemotron-h-a-family-of-accurate-and-efficient-hybrid-mamba-transformer-models": {
+    "highlight": "Hybrid Mamba-Transformer architecture achieving strong performance with improved efficiency for large language models.",
+    "image": "assets/images/nanov2.png",
+    "paper": "https://arxiv.org/abs/2508.14444",
+    "models": "https://huggingface.co/collections/nvidia/nvidia-nemotron-689f6d6e6ead8e77dd641615"
+  },
+  "hymba-a-hybrid-head-architecture-for-small-language-models": {
+    "highlight": "Hybrid-head parallel architecture integrating transformer attention with SSMs. Hymba-1.5B outperforms Llama-3.2-3B with 11.67x cache reduction and 3.49x throughput.",
+    "image": "assets/images/hymba.png",
+    "models": "https://huggingface.co/collections/nvidia/hymba-673c35516c12c4b98b5e845f",
+    "paper": "https://arxiv.org/abs/2411.13676"
+  },
+  "dora-weight-decomposed-low-rank-adaptation": {
+    "highlight": "PEFT technique that significantly outperforms LoRA by decomposing weights into magnitude and direction.",
+    "image": "assets/images/dora.png",
+    "post": "https://developer.nvidia.com/blog/introducing-dora-a-high-performing-alternative-to-lora-for-fine-tuning/"
+  },
+  "llm-pruning-and-distillation-in-practice-the-minitron-approach": {
+    "highlight": "Practical approach to creating efficient small language models through structured pruning and knowledge distillation.",
+    "image": "assets/images/minitron2.png",
+    "models": "https://huggingface.co/collections/nvidia/minitron-669ac727dc9c86e6ab7f0f3e",
+    "paper": "https://arxiv.org/abs/2408.11796"
+  },
+  "efficient-hybrid-language-model-compression-through-group-aware-ssm-pruning": {
+    "highlight": "Novel approach to compressing hybrid language models through group-aware structured pruning of state space model components.",
+    "image": "assets/images/minitron_ssm.png",
+    "paper": "https://arxiv.org/abs/2504.11409"
+  },
+  "vila-on-pre-training-for-visual-language-models": {
+    "highlight": "Comprehensive study on VLM pre-training with enhanced recipe that consistently outperforms state-of-the-art.",
+    "image": "assets/placeholder.svg",
+    "post": "https://x.com/PavloMolchanov"
+  },
+  "nvila-efficient-frontier-visual-language-models": {
+    "highlight": "Efficient frontier VLM models with optimized training and inference for practical deployment.",
+    "image": "assets/images/nvila.png",
+    "post": "https://x.com/PavloMolchanov"
+  },
+  "x-vila-cross-modality-alignment-for-large-language-model": {
+    "highlight": "Cross-modality foundation model supporting video, image, language, and audio understanding and generation.",
+    "image": "assets/placeholder.svg",
+    "post": "https://x.com/PavloMolchanov"
+  },
+  "omnivinci-enhancing-architecture-and-data-for-omni-modal-understanding-llm": {
+    "highlight": "State-of-the-art omni-modal LLM with joint perception of images, videos, audio, and text. Outperforms Qwen2.5-Omni with 6x fewer tokens.",
+    "image": "assets/images/omnivinci.png"
+  },
+  "small-language-models-are-the-future-of-agentic-ai": {
+    "highlight": "Position paper arguing that SLMs are sufficient, more suitable, and economical for many agentic AI tasks.",
+    "image": "assets/images/slm_paper.png",
+    "paper": "https://arxiv.org/abs/2506.02153"
+  },
+  "scaling-vision-pre-training-to-4k-resolution": {
+    "highlight": "Scaling vision pre-training to ultra-high 4K resolution, enabling better fine-grained visual understanding and representation learning.",
+    "image": "assets/images/vilahd.png",
+    "post": "https://x.com/PavloMolchanov"
+  },
+  "radiov2-5-improved-baselines-for-agglomerative-vision-foundation-models": {
+    "highlight": "Enhanced RADIO v2.5 with improved agglomerative vision foundation models for better representation learning and downstream performance.",
+    "image": "assets/images/radio25.png"
+  },
+  "climb-clustering-based-iterative-data-mixture-bootstrapping-for-language-model-pre-training": {
+    "highlight": "Novel clustering-based iterative approach to optimize data mixture bootstrapping for more effective language model pre-training.",
+    "image": "assets/images/climb_teaser.png",
+    "paper": "https://arxiv.org/abs/2504.13161",
+    "dataset": "https://huggingface.co/datasets/OptimalScale/ClimbMix"
+  },
+  "puzzle-distillation-based-nas-for-inference-optimized-llms": {
+    "highlight": "Distillation-based neural architecture search framework specifically designed for creating inference-optimized large language models.",
+    "image": "assets/images/puzzle.png",
+    "models": "https://huggingface.co/collections/nvidia/llama-nemotron-67d92346030a2691293f200b",
+    "paper": "https://arxiv.org/abs/2411.19146"
+  },
+  "compact-language-models-via-pruning-and-knowledge-distillation": {
+    "highlight": "Comprehensive approach combining structured pruning and knowledge distillation to create highly compact yet performant language models.",
+    "image": "assets/placeholder.svg",
+    "post": "https://x.com/PavloMolchanov"
+  },
+  "am-radio-agglomerative-vision-foundation-model-reduce-all-domains-into-one": {
+    "highlight": "AM-RADIO foundation model that effectively reduces multiple visual domains into a unified representation for improved cross-domain performance.",
+    "image": "assets/placeholder.svg",
+    "post": "https://x.com/PavloMolchanov"
+  }
+}
+
+

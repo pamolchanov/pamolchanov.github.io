@@ -1,0 +1,5 @@
+[
+  { "date": "[2025 Oct]", "title": "At GTC-DC a couple of new open models were announced, we contributed: Nemotron Nano 3, Nemotron Nano 2 VL, Nemotron Parse, Clara Reason.", "link": "https://blogs.nvidia.com/blog/open-models-data-ai/?ncid=so-link-608977" },
+  { "date": "[2025 Sep]", "title": "We have 5 papers accepted to NeurIPS 2025, see you in San Diego! <a href='https://arxiv.org/abs/2504.13161'>Nemotron-CLIMB</a>, Nemotron-Flash, GSPN-2, <a href='https://github.com/NVlabs/Long-RL'>Long-RL</a>, <a href='https://arxiv.org/pdf/2504.11409'>Minitron-SSM</a>. ", "link": "https://neurips.cc/Conferences/2025" },
+  { "date": "[2025 Aug]", "title": "New NVIDIA-Nemotron-Nano-v2-9B is released on Hugging Face. We contributed to the compression part, architecture and data filtering.", "link": "https://huggingface.co/collections/nvidia/nvidia-nemotron-689f6d6e6ead8e77dd641615" }
+]
