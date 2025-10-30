@@ -143,6 +143,14 @@ html, body {
 .links a {
   color: #0066cc;
   text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.links a i {
+  font-size: 18px;
+  min-width: 18px;
 }
 
 .links a:hover {
