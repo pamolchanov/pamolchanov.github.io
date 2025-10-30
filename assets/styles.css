@@ -148,10 +148,9 @@ html, body {
   gap: 6px;
 }
 
-.links a .link-icon {
-  width: 20px;
-  height: 20px;
-  vertical-align: middle;
+.links a i {
+  font-size: 18px;
+  min-width: 18px;
 }
 
 .links a:hover {
